@@ -125,7 +125,7 @@ public class SandpileControlPanel extends javax.swing.JFrame {
 
         jLabel2.setText("Height");
 
-        jLabel3.setText("Node Size");
+        jLabel3.setText("Graphical Node Size");
 
         jLabel4.setText("Grid Type");
 
